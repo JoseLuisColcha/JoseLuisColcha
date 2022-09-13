@@ -10,7 +10,7 @@
 ## Acerca de mí :frowning_person:
 - :owl: Yo soy un `Desarrollador Junior` de la Escuela Politécnica Nacional.
 - 💻 Soy un apasionado por el `Desarrollo Frontend` y el `diseño UI`.
-- 📄 Soy una persona autotidacta que siempre está `aprendiendo cosas nuevas`
+- 📄 Soy una persona autodidacta que siempre está `aprendiendo cosas nuevas`
 - :briefcase: Actualmente estoy abierto para una nueva oportunidad de trabajo.
 
 <br>
