@@ -7,15 +7,15 @@
 [![hghgj.jpg](https://i.postimg.cc/zBj3Gxm5/hghgj.jpg)](https://postimg.cc/wy19WcTb)
 
 
-## Acerca de mí 
-- Yo soy un `Desarrollador Junior` de la Escuela Politécnica Nacional.
-- Soy un apasionado por el `Desarrollo Frontend` y el `diseño UI`.
-- Soy una persona autotidacta que siempre está `aprendiendo cosas nuevas`
-- Actualmente estoy abierto para una nueva oportunidad de trabajo.
+## Acerca de mí :frowning_person:
+- :owl: Yo soy un `Desarrollador Junior` de la Escuela Politécnica Nacional.
+- 💻 Soy un apasionado por el `Desarrollo Frontend` y el `diseño UI`.
+- 📄 Soy una persona autotidacta que siempre está `aprendiendo cosas nuevas`
+- :briefcase: Actualmente estoy abierto para una nueva oportunidad de trabajo.
 
 <br>
 
-<i>Sígueme en mis redes sociales:</i><br>
+<i>Sígueme en mis redes sociales:</i><br> 
 
   <!-- <a target="_blank" href="https://www.linkedin.com/in/absphreak/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
   <a target="_blank" href="https://www.instagram.com/absphreak/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
