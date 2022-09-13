@@ -6,6 +6,9 @@
 
 [![hghgj.jpg](https://i.postimg.cc/zBj3Gxm5/hghgj.jpg)](https://postimg.cc/wy19WcTb)
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
+</a>
 
 ## Acerca de mí :frowning_person:
 - :owl: Soy un `Desarrollador Junior` de la Escuela Politécnica Nacional.
