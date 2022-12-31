@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&color=985AF7&width=435&lines=Soy+un+Desarrollador+de+Software;Adem%C3%A1s%2C+soy+Dise%C3%B1ador+gr%C3%A1fico;Apasionado+por+el+Dise%C3%B1o+UI+%26+UX;Estudi%C3%A9+en+la+Escuela+Polit%C3%A9cnica+Nacional" alt="Typing SVG" /></a>
 </p>
 
-[![banner-Git-Hub.png](https://i.postimg.cc/LXgZX4j0/banner-Git-Hub.png)](https://postimg.cc/62wQbXjd)
+[![banner-Git-Hub.png](https://i.postimg.cc/VsjdHVgM/banner-Git-Hub.png)](https://postimg.cc/23Sk1TP8)
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
