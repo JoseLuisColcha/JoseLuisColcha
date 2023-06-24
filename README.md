@@ -1,7 +1,7 @@
 <h1 align="center">Hola  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, mi nombre es José Luis Colcha</h1>
 <br>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&color=985AF7&width=435&lines=Soy+un+Desarrollador+de+Software;Adem%C3%A1s%2C+soy+Dise%C3%B1ador+gr%C3%A1fico;Apasionado+por+el+Dise%C3%B1o+UI+%26+UX;Estudi%C3%A9+en+la+Escuela+Polit%C3%A9cnica+Nacional" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&color=985AF7&width=435&lines=Soy+un+Desarrollador+de+Software;Apasionado+por+el+Dise%C3%B1o+UI+%26+UX;Estudi%C3%A9+en+la+Escuela+Polit%C3%A9cnica+Nacional" alt="Typing SVG" /></a>
 </p>
 
 [![banner-Git-Hub.png](https://i.postimg.cc/VsjdHVgM/banner-Git-Hub.png)](https://postimg.cc/23Sk1TP8)
