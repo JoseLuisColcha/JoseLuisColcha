@@ -9,9 +9,6 @@
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
 </a>
-<p align="right"> <h3>Visitas al perfil</h3> <img src="https://komarev.com/ghpvc/?username=JoseLuisColcha &label=Profile%20views&color=0e75b6&style=flat"
-    alt="JoseLuisColcha" /> 
-  </p>
   
 ## Acerca de mí :frowning_person:
 - :owl: Soy un `Desarrollador Junior` de la Escuela Politécnica Nacional.
