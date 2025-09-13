@@ -1,14 +1,10 @@
 <h1 align="center">Hola  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, mi nombre es José Luis Colcha</h1>
 <br>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&color=985AF7&width=435&lines=Soy+un+Desarrollador+de+Software;Apasionado+por+el+Dise%C3%B1o+UI+%26+UX;Estudi%C3%A9+en+la+Escuela+Polit%C3%A9cnica+Nacional" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&color=DAC5A7&width=435&lines=Soy+un+Desarrollador+de+Software;Apasionado+por+el+Dise%C3%B1o+UI+%26+UX;Estudi%C3%A9+en+la+Escuela+Polit%C3%A9cnica+Nacional" alt="Typing SVG" /></a>
 </p>
 
-[![banner-Git-Hub.png](https://i.postimg.cc/VsjdHVgM/banner-Git-Hub.png)](https://postimg.cc/23Sk1TP8)
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
-</a>
+[![portada-2025.jpg](https://i.postimg.cc/PqQT3ndL/portada-2025.jpg)](https://postimg.cc/rdsBsb0c)
   
 ## Acerca de mí :frowning_person:
 - :owl: Soy un `Desarrollador Junior` de la Escuela Politécnica Nacional.
@@ -61,7 +57,7 @@
 <i>Sígueme en mis redes sociales:</i><br> 
   <br> 
 
-<a href="https://www.linkedin.com/in/joseluiscolcha/" target="_blank">
+<a href="https://www.linkedin.com/in/jose-colcha/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/bladfe593/" target="_blank">
