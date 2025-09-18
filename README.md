@@ -8,9 +8,10 @@
   
 ## Acerca de mí :frowning_person:
 - :owl: Soy un `Desarrollador de Software` de la Escuela Politécnica Nacional.
-- 💻 Soy un apasionado por el `Desarrollo Frontend` y el `diseño UI & UX`.
-- 📄 Soy una persona autodidacta que siempre está `aprendiendo cosas nuevas`
-- :briefcase: Actualmente estoy abierto para una nueva oportunidad de trabajo.
+- 💻 Especializado en **React, JavaScript y TailwindCSS**  
+- 🎨 Apasionado por el **diseño UI/UX** y la creación de interfaces fluidas  
+- 🚀 En constante aprendizaje de nuevas tecnologías  
+- 🌎 Amante de la web y el diseño minimalista  
 
 <br>
 
